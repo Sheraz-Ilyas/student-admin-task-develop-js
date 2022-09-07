@@ -1,0 +1,17 @@
+@media (max-width: 500px) {
+	.form-model .MuiBox-root.css-1wnsr1i {
+		max-width: 250px;
+	}
+	.main-modal-div {
+		margin-top: 10px;
+		display: flex;
+		flex-direction: column;
+	}
+}
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+	background: #00000010 !important;
+}
+
+.edit .css-1wnsr1i {
+	box-shadow: none;
+}

@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "ali khan",
+      "sex": "male",
+      "email": "sherazilyas647@gmail.com",
+      "pob": "karachi",
+      "dob": "2022-08-01",
+      "groups": [
+        "Chemistry"
+      ],
+      "id": 1
+    },
+    {
+      "name": "mona",
+      "sex": "female",
+      "email": "sherazilyas647@gmail.com",
+      "pob": "karachi",
+      "dob": "2022-08-02",
+      "groups": [
+        "Maths"
+      ],
+      "id": 3
+    }
+  ]
+}
